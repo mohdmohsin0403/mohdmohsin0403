@@ -1,3 +1,5 @@
+![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/78999231/181784564-b1f28e0e-2cf3-40b1-b179-b269f1d56b60.png)
+
 ### Hi there 👋
 
 <!--
