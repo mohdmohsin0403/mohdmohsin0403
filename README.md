@@ -21,7 +21,7 @@ Being an engineering student I like to write. I never knew that I could write, b
 - 📫 How to reach me:
      - [Instagram](https://www.instagram.com/_archaic_rhymist/)
      - <a href="https://twitter.com/archaic_rhymist"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60"></a>
-      - <a href="https://www.linkedin.com/in/mohd-mohsin-khan-1a3167202/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
+     - <a href="https://www.linkedin.com/in/mohd-mohsin-khan-1a3167202/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
      - <a href="mailto:786mohsin0khan@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
