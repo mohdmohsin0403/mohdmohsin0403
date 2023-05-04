@@ -8,11 +8,12 @@
 Here are some ideas to get you started:
 -->
 
-Heya, Myself Mohd Mohsin Khan persuing B.Tech in CSE specialization in Artificial Intelligence and Machine Learning. Solving problems creatively is what I do. I am an AI ML enthusiast, looking around for things. 
 
-I have learned the importance of applying classical strategies to modern-day projects. I am an intermediate coder in python, C++ and Java. Knows the basic of R language and currently trying my hands in NodeJS. I have done some basic python projects in my school life and I have tried my hands on Advanced python projects to in my college life using some of the most populous libraries used - Tkinter, pandas, NumPy, and many more. 
+I'm Mohd Mohsin Khan, and I'm currently pursuing my Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence and Machine Learning. I believe in applying classical strategies to modern-day projects, and I'm an intermediate-level programmer in Python, C++, and Java. Recently, I've been trying my hand at NodeJS and am excited to expand my knowledge in this area.
 
-Being an engineering student I like to write. I never knew that I could write, but I wasn’t even sure how to go about it. My first encounter with writing was when I was in class 11th and caught red-handed by my teacher and when I joined college, I started trying for content writing internships. Now, I am a published writer, with my book published "Who am I?" and I am a part of at least 20 anthologies. Currently, I am compiling an anthology too, with almost 50-60 co-authors. 
+I've completed some basic and advanced Python projects using popular libraries like Tkinter, Pandas, and NumPy, and I'm always looking for new challenges to enhance my programming skills. Writing is another passion of mine that I discovered in high school, and I'm now a published author with my book "Who am I?" and have contributed to at least 20 anthologies. Currently, I'm working on compiling an anthology with almost 50-60 co-authors.
+
+I'm thrilled to be on this journey of learning and self-discovery, and I believe that my passion for AI and ML, programming skills, and writing talent make for an excellent combination. I'm excited to see what the future holds for me and look forward to making a meaningful contribution to this world.
 
 - Coding Languages I am comfortable with-
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
